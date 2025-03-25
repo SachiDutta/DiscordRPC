@@ -1,5 +1,5 @@
 # **Discord RPC**
-Make custom Discord RPC's easily
+Make your custom Discord RPC's easily
 
 ## Requirements :
 
